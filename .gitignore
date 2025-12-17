@@ -1,2 +1,7 @@
 /.idea
 /.XML
+build/
+.log
+.tmp
+
+
